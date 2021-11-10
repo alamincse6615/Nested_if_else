@@ -96,7 +96,7 @@ class _MyHomePageState extends State<MyHomePage> {
           SizedBox(height: 30,),
           InkWell(
             child: Text(''
-                '$result',style: TextStyle(fontSize: 30),),
+                'result is : $result',style: TextStyle(fontSize: 30),),
             onTap: (){
 
 
